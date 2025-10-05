@@ -1,0 +1,10 @@
+.body{
+    margin: 0;
+}
+.header-links{
+    display: flex;
+    justify-content: end;
+    align-items: top;
+    border: 2px;
+    border-color: black;
+}
